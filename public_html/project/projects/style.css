@@ -1,0 +1,32 @@
+h1, h2{
+    color: #191970;
+    font-family: Verdana;
+}
+ul{
+    color: #008000;
+    font-weight: bold;
+}
+.table_text{
+    color: #191970;
+    font-weight: bold;
+}
+.stroky{
+    background-color:  #00FFFF;
+}
+.table_text_two{
+    font-weight: bold;
+}
+.stroky_two{
+    background-color:  #B0E0E6;
+}
+.navigat {
+    list-style-type: none;
+}
+.navigat a {
+    color: green;
+    text-decoration: none;
+}
+.navigat a:hover {
+    color: orangered;
+    text-decoration: underline;
+}
